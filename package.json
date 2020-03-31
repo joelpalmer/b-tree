@@ -1,0 +1,22 @@
+{
+  "name": "b-tree",
+  "version": "1.0.0",
+  "description": "B-tree for upcoming DB index",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelpalmer/b-tree.git"
+  },
+  "author": "Joel Palmer",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joelpalmer/b-tree/issues"
+  },
+  "homepage": "https://github.com/joelpalmer/b-tree#readme",
+  "devDependencies": {
+    "tap": "^14.10.7"
+  }
+}
